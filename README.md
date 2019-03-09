@@ -9,4 +9,4 @@ Savegame error workaround: https://drive.google.com/file/d/1Mh9JZKPiHr4iYO7JbmXG
 2. Register game services with keystore SHA1 on GPDC
 3. Register and publish game on GPDC
 4. Change SHA1 to the Upload one
-5. Savegame workaround
+5. Savegame workaround (if needed)
